@@ -41,3 +41,7 @@ Parses JSON to get current conditions & forecast.
 
 # 📷 Screenshots
 Current Weather & Forecast Table	Interactive Chart & Downloads
+
+<img src = 'w1.png'>
+<br>
+<img src = 'w2.png'>
